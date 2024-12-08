@@ -1,0 +1,43 @@
+.button-Read:hover {
+    background-color: transparent ;
+    color: rgb(236, 93, 96) ;
+    border: 1px solid ;
+   ;
+}.button-Read{
+
+    color: white ;
+    border: none ;
+    background-color: rgb(236, 93, 96);
+    width: 150px;
+    height: 45px;
+    margin-top: 30px;
+    
+}
+.button-Hire:hover{
+    background-color: transparent ;
+    color: black ;
+    border: 1px solid ;
+
+}
+.button-Hire{
+    color: white ;
+    border: none ;
+    background-color: black;
+    width: 150px;
+    height: 45px;
+    
+
+}
+.tema{
+
+    margin-left: 130px;
+    margin-top: 90px;
+}.imag{
+    height: 100px;
+    /* width: 100px; */
+}
+
+.imag-3{
+    height: 100px;
+    /* width: 100px; */
+}
